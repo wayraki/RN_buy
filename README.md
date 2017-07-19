@@ -1,4 +1,4 @@
 # A react-native app
 
 #DEMO
-<img src="https://cdn.rawgit.com/akveo/react-native-ui-kitten/master/docs/assets/kittenKit.png"/>
+<img src="https://raw.githubusercontent.com/wayraki/RN_buy/master/Screenshot_20170719-213806.png"/>
