@@ -1,0 +1,150 @@
+{
+  "entryMenu": [
+    [
+      {
+        "title": "美食",
+        "image": "ms"
+      },
+      {
+        "title": "电影",
+        "image": "dy"
+      },
+      {
+        "title": "酒店",
+        "image": "jd"
+      },
+      {
+        "title": "休闲娱乐",
+        "image": "xxyl"
+      },
+      {
+        "title": "外卖",
+        "image": "wm"
+      },
+      {
+        "title": "自助餐",
+        "image": "zzc"
+      },
+      {
+        "title": "KTV",
+        "image": "ktv"
+      },
+      {
+        "title": "火车票机票",
+        "image": "hcpjp"
+      },
+      {
+        "title": "丽人",
+        "image": "lr"
+      },
+      {
+        "title": "周边游",
+        "image": "zby"
+      }
+    ],
+    [
+      {
+        "title": "足疗按摩",
+        "image": "zlam"
+      },
+      {
+        "title": "购物",
+        "image": "gw"
+      },
+      {
+        "title": "今日新单",
+        "image": "jrxd"
+      },
+      {
+        "title": "小吃快餐",
+        "image": "xckc"
+      },
+      {
+        "title": "生活服务",
+        "image": "shfw"
+      },
+      {
+        "title": "甜点饮品",
+        "image": "tdyp"
+      },
+      {
+        "title": "美甲",
+        "image": "mj"
+      },
+      {
+        "title": "景点门票",
+        "image": "jdmp"
+      },
+      {
+        "title": "旅游",
+        "image": "ly"
+      },
+      {
+        "title": "全部分类",
+        "image": "qbfl"
+      }
+    ]
+  ],
+  "recommendGoods": [
+    {
+      "title": "我们约吧",
+      "subTitle": "恋人家人好朋友",
+      "image": "http:///p0.meituan.net/mmc/fe4d2e89827aa829e12e2557ded363a112289.png",
+      "titleColor": "#55a40f"
+    },
+    {
+      "title": "低价超值",
+      "subTitle": "十元惠生活",
+      "image": "http://p0.meituan.net/mmc/a06d0c5c0a972e784345b2d648b034ec9710.jpg",
+      "titleColor": "#ff3f0d"
+    },
+    {
+      "title": "逛街必备",
+      "subTitle": "甜点奶茶随手找",
+      "image": "http://p0.meituan.net/mmc/257967793a6a089574b7491e7346e5729041.png",
+      "titleColor": "#f742a0"
+    }
+  ],
+  "guessLike": [
+    {
+      "imageUrl": "http://p0.meituan.net/200.0/deal/42cfb7daeffdee260d3311aec6dfb579687422.jpg@487_0_1952_1952a%7C267h_267w_2e_90Q",
+      "title": "尊宝比萨",
+      "subTitle": "[103店通用]缤纷2-3人套餐",
+      "price": "62",
+      "topRightInfo": "393m",
+      "bottomRightInfo": "29688"
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/200.0/deal/8f77546b24946020cccec06e648fc0cd51101.jpg@126_0_388_388a%7C267h_267w_2e_100Q",
+      "title": "必胜客",
+      "subTitle": "[深圳等]加州风情牛菲力1份",
+      "price": "39.5",
+      "topRightInfo": "556m",
+      "bottomRightInfo": "64665"
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/200.0/deal/b3018dd6f296f225bf4ada408949a70144400.jpg@118_0_466_466a%7C267h_267w_2e_90Q",
+      "title": "真功夫",
+      "subTitle": "[深圳等]鱼香茄子饭 + 金杏蜜桃汁1份",
+      "price": "17",
+      "topRightInfo": "693m",
+      "bottomRightInfo": "22867"
+    },
+    {
+      "imageUrl": "http://p1.meituan.net/200.0/deal/7b284ae8426ed2e34557596523fafaf6169906.jpg@69_0_564_564a%7C267h_267w_2e_90Q",
+      "title": "正新鸡排",
+      "subTitle": "[7店通用]正新鸡排1份，提供免费WiFi",
+      "price": "8.9",
+      "topRightInfo": "976m",
+      "bottomRightInfo": "102477"
+    },
+    {
+      "imageUrl": "http://p0.meituan.net/200.0/deal/69ef6c2d27326150e164069677da703f35121.jpg@111_0_479_479a%7C267h_267w_2e_90Q",
+      "title": "探炉烤鱼",
+      "subTitle": "[2店通用]100元探炉优惠券1张，可叠加",
+      "price": "69.9",
+      "topRightInfo": "1.2km",
+      "bottomRightInfo": "2371"
+    }
+  ]
+}
