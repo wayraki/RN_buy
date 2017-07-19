@@ -1,7 +1,5 @@
-# A react-native app
 
-# DEMO
-<img src="https://raw.githubusercontent.com/wayraki/RN_buy/master/Screenshot_20170719-213806.png"/>
+A react-native app
+
 ## Demo
-
-![wayraki](https://raw.githubusercontent.com/wayraki/RN_buy/master/Screenshot_20170719-213806.png)
+(https://raw.githubusercontent.com/wayraki/RN_buy/master/Screenshot_20170719-213806.png)
